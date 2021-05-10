@@ -27,7 +27,9 @@ please feel free to contact me at 2713277400@qq.com if you have any problem.
 ## Acknowledgements
 Thanks to these significant projects:
 ### Video super resolution
-https://github.com/LoSealL/VideoSuperResolution
+https://github.com/LoSealL/VideoSuperResolution  
 https://github.com/LongguangWang/SOF-VSR
 ### FPGA implementation
+https://github.com/Xilinx/Vitis-AI  
+
 
