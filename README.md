@@ -14,7 +14,7 @@ The last part is the implementation based on FPGA, due to the large size of the 
 ## Experiment
 ### For model-1 and model-2
 I use Pytorch for these two projects. You should have:  
-pytorch >= 1.2.0  tensorboard  opencv  dlib  tqdm in your environment.
+pytorch >= 1.2.0   tensorboard   opencv   dlib   tqdm in your environment.
 and the mise pre-model can be downloaded in: https://pan.baidu.com/s/1ZjF8D0zkMVrGjuNDdu77rg extractor code: feng
 ### For FPGA
 I do the experiment on Vivado 2019.2 and HLS 2019.2. So you'd better have a proper software version.
