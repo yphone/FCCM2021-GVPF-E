@@ -1,4 +1,4 @@
-# FCCM2021-GVPF-t
+# FCCM2021-GVPF-E
 ## Overview
 This is the video processing demo we provide for FCCM2021. also for video face-resolution.   
 Also, this is my master's project: RESEARCH ON FACE SUPER-RESOLUTION ALGORITHM BASED ON VIDEO STREAM.
