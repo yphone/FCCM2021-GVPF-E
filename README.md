@@ -9,7 +9,7 @@ The demo link：https://pan.baidu.com/s/1qsjtYMci2pJL_eUSfj5Ivg
 ## Introduction
 This project contains three sub-project, as shown in my master's thesis: RESEARCH ON FACE SUPER-RESOLUTION ALGORITHM BASED ON VIDEO STREAM.  
 The first part is model-1, aiming to produce a general super-resolution architecture based on single image.  
-The second part is model-2, aiming to produce video SR algorithm based on face-loss trainging.
+The second part is model-2, aiming to produce video SR algorithm based on face-loss trainging.  
 The last part is the implementation based on FPGA, due to the large size of the project, I provide this downlink : https://pan.baidu.com/s/1XiYbwig3OSuZ1EBXESMSZg the extract code: feng
 ## Experiment
 ### For model-1 and model-2
