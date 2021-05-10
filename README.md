@@ -24,3 +24,7 @@ and the mise pre-model can be downloaded in: https://pan.baidu.com/s/1ZjF8D0zkMV
 I do the experiment on Vivado 2019.2 and HLS 2019.2. So you'd better have a proper software version.
 ## contact me
 please feel free to contact me at 2713277400@qq.com if you have any problem.
+## Acknowledgements
+Thanks to these diligent projects:
+### Video super resolution
+https://github.com/LoSealL/VideoSuperResolution
