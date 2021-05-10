@@ -25,6 +25,9 @@ I do the experiment on Vivado 2019.2 and HLS 2019.2. So you'd better have a prop
 ## contact me
 please feel free to contact me at 2713277400@qq.com if you have any problem.
 ## Acknowledgements
-Thanks to these diligent projects:
+Thanks to these significant projects:
 ### Video super resolution
 https://github.com/LoSealL/VideoSuperResolution
+https://github.com/LongguangWang/SOF-VSR
+### FPGA implementation
+
