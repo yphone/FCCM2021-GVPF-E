@@ -11,4 +11,14 @@ This project contains three sub-project, as shown in my master's thesis: RESEARC
 The first part is model-1, aiming to produce a general super-resolution architecture based on single image.  
 The second part is model-2, aiming to produce video SR algorithm based on face-loss trainging.
 The last part is the implementation based on FPGA, due to the large size of the project, I provide this downlink : https://pan.baidu.com/s/1XiYbwig3OSuZ1EBXESMSZg the extract code: feng
-
+## Experiment
+### For model-1 and model-2
+I use Pytorch for these two projects. You should have:  
+pytorch >= 1.2.0
+tensorboard
+opencv
+dlib
+tqdm
+in your environment.
+### For FPGA
+I do the experiment on Vivado 2019.2 and HLS 2019.2. So you'd better have a proper software version.
