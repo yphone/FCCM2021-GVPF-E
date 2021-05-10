@@ -31,5 +31,7 @@ https://github.com/LoSealL/VideoSuperResolution
 https://github.com/LongguangWang/SOF-VSR
 ### FPGA implementation
 https://github.com/Xilinx/Vitis-AI  
+https://github.com/Xilinx/Vitis-AI-Tutorials  
+https://github.com/duchungk7/FPGA_HLS_2D_convolution
 
 
