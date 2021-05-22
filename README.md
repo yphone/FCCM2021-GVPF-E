@@ -6,6 +6,9 @@ Also, this is my master's project: RESEARCH ON FACE SUPER-RESOLUTION ALGORITHM B
 I test four video streams using face super-resolution algorithm, as you can see in the demos, the face in low-resolution videos are emphysised.
 The demo link：https://pan.baidu.com/s/1qsjtYMci2pJL_eUSfj5Ivg 
 提取码 extract code：feng 
+
+![image](https://github.com/yphone/FCCM2021-GVPF-E/blob/main/demo_A.gif)
+
 ## Introduction
 This project contains three sub-project, as shown in my master's thesis: RESEARCH ON FACE SUPER-RESOLUTION ALGORITHM BASED ON VIDEO STREAM.  
 The first part is model-1, aiming to produce a general super-resolution architecture based on single image.  
